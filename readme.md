@@ -4,7 +4,7 @@ Issue: http://stackoverflow.com/questions/33401122/spring-mvc-parse-date-and-sho
 
 To start this app, run 
 
-    spring-boot:run
+    mvn spring-boot:run
 
 - Go to http://localhost:8080/
 - Submit the form with `1999-10-24`
